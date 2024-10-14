@@ -1,0 +1,507 @@
+Year,Athlete,NOC,Distance,Sex,Birth,Height (cm),Weight (kg)
+1964,Józef Szmidt,POL,16.85,Male,"28 March 1935 in Michałkowice, Śląskie (POL)",184.0,77.0
+1964,Oleg Fedoseyev,URS,16.58,Male,"4 June 1936 in Moskva (Moscow), Moskva (RUS)",186.0,82.0
+1964,Viktor Kravchenko,URS,16.57,Male,"25 May 1941 in Rostov-na-Donu, Rostov (RUS)",172.0,65.0
+1964,Fred Alsop,GBR,16.46,Male,"20 October 1938 in Plaistow, England (GBR)",183.0,75.0
+1964,Șerban Ciochină,ROU,16.23,Male,"30 November 1939 in București (Bucharest), București (ROU)",178.0,65.0
+1964,Manfred Hinze,GER,16.23,Male,"8 January 1933 in Gryfino, Zachodniopomorskie (POL)",172.0,70.0
+1964,Georgi Stoykovski,BUL,16.21,Male,"10 May 1941 in Bata, Pazardzhik (BUL)",173.0,71.0
+1964,Hans-Jürgen Rückborn,GER,16.09,Male,"8 October 1940 in Stendal, Sachsen-Anhalt (GER)",190.0,80.0
+1964,Ira Davis,USA,16.29,Male,"25 September 1936 in Philadelphia, Pennsylvania (USA)",183.0,72.0
+1964,Takayuki Okazaki,JPN,16.05,Male,"28 March 1940 in ?, Chiba (JPN)",168.0,57.0
+1964,Bill Sharpe,USA,15.84,Male,"23 January 1932 in Philadelphia, Pennsylvania (USA)",182.0,76.0
+1964,Jan Jaskólski,POL,16.1,Male,"28 October 1939 in Inowrocław, Kujawsko-Pomorskie (POL)",180.0,70.0
+1964,Mansour Dia,SEN,15.84,Male,"27 December 1940 in Dakar, Dakar (SEN)",191.0,85.0
+1964,Günter Krivec,GER,15.78,Male,"28 July 1942 in Moers, Nordrhein-Westfalen (GER)",175.0,67.0
+1964,Ian Tomlinson,AUS,15.76,Male,"27 February 1936 in Perth, Western Australia (AUS)",187.0,70.0
+1964,Vitold Kreyer,URS,15.71,Male,"12 November 1932 in Krasnodar, Krasnodar Kray (RUS)",180.0,70.0
+1964,Koji Sakurai,JPN,15.59,Male,"18 February 1936 in Tokyo, Tokyo (JPN)",172.0,67.0
+1964,Mike Ralph,GBR,15.57,Male,4 July 1938,173.0,63.0
+1964,Henrik Kalocsai,HUN,15.53,Male,"28 November 1940 in Budapest, Budapest (HUN)",191.0,84.0
+1964,Luis Felipe Areta,ESP,15.41,Male,"28 March 1942 in San Sebastián, Guipúzcoa (ESP)",188.0,78.0
+1964,Kent Floerke,USA,15.36,Male,"16 January 1936 in Kansas City, Missouri (USA)",193.0,91.0
+1964,George Ogan,NGR,15.35,Male,20 July 1938,173.0,63.0
+1964,Aşkın Tuna,TUR,15.21,Male,"21 July 1940 in Manisa, Manisa (TUR)",183.0,77.0
+1964,Christian Ohiri,NGR,15.08,Male,"19 June 1938 in Owerri, Imo (NGR)"
+1964,Éric Battista,FRA,15.04,Male,"14 May 1933 in Sète, Hérault (FRA)",170.0,70.0
+1964,Labh Singh,IND,14.95,Male,25 April 1939,173.0,54.0
+1964,Lyuben Gurgushinov,BUL,14.75,Male,"2 November 1931 in Rila, Kyustendil (BUL)",172.0,68.0
+1964,Marc Rabémila,MAD,14.62,Male,"27 April 1938 in Maroadabo, Alaotra Mangoro (MAD)",166.0,56.0
+1964,Hartley Saunders,BAH,14.59,Male,7 November 1943,183.0,80.0
+1964,Hwang Jeong-Dae,KOR,13.98,Male,14 September 1940,165.0,61.0
+1964,Samir Vincent,IRQ,13.85,Male,23 October 1940 in ? (IRQ),185.0,85.0
+1964,Chu Ming,HKG,13.5,Male,24 September 1932,169.0,64.0
+1968,Viktor Saneyev,URS,17.39,Male,"3 October 1945 in Sukhumi, Apkhazeti (GEO)",188.0,78.0
+1968,Nélson Prudêncio,BRA,17.27,Male,"4 April 1944 in Lins, São Paulo (BRA)",182.0,71.0
+1968,Giuseppe Gentile,ITA,17.22,Male,"4 September 1943 in Roma, Roma (ITA)",190.0,83.0
+1968,Art Walker,USA,16.49,Male,"9 September 1941 in Columbus, Georgia (USA)",188.0,69.0
+1968,Nikolay Dudkin,URS,16.15,Male,"5 July 1947 in Minsk, Minsk (BLR)",178.0,78.0
+1968,Phil May,AUS,17.02,Male,"20 September 1944 in Blackpool, England (GBR)",196.0,82.0
+1968,Józef Szmidt,POL,16.89,Male,"28 March 1935 in Michałkowice, Śląskie (POL)",184.0,77.0
+1968,Mansour Dia,SEN,16.58,Male,"27 December 1940 in Dakar, Dakar (SEN)",191.0,85.0
+1968,Georgi Stoykovski,BUL,16.46,Male,"10 May 1941 in Bata, Pazardzhik (BUL)",173.0,71.0
+1968,Henrik Kalocsai,HUN,16.45,Male,"28 November 1940 in Budapest, Budapest (HUN)",191.0,84.0
+1968,Joachim Kugler,FRG,16.2,Male,"19 September 1947 in Backnang, Baden-Württemberg (GER)",180.0,70.0
+1968,Luis Felipe Areta,ESP,16.2,Male,"28 March 1942 in San Sebastián, Guipúzcoa (ESP)",188.0,78.0
+1968,Șerban Ciochină,ROU,16.21,Male,"30 November 1939 in București (Bucharest), București (ROU)",178.0,65.0
+1968,Jan Jaskólski,POL,16.04,Male,"28 October 1939 in Inowrocław, Kujawsko-Pomorskie (POL)",180.0,70.0
+1968,Michael Sauer,FRG,16.02,Male,"27 August 1941 in Recklinghausen, Nordrhein-Westfalen (GER)",183.0,77.0
+1968,Derek Boosey,GBR,16.01,Male,"15 July 1942 in Pune (Poona), Maharashtra (IND)",183.0,75.0
+1968,Norm Tate,USA,15.84,Male,"2 January 1942 in Oswald, West Virginia (USA)",183.0,82.0
+1968,Pertti Pousi,FIN,15.84,Male,"24 June 1946 in Helsinki, Uusimaa (FIN)",185.0,63.0
+1968,Yukito Muraki,JPN,15.83,Male,"31 July 1945 in Seoul, Seoul (KOR)",173.0,67.0
+1968,Tim Barrett,BAH,15.79,Male,"16 March 1948 in Nassau, New Providence (BAH)",184.0,79.0
+1968,Dave Smith,USA,15.75,Male,"8 November 1947 in Los Angeles, California (USA)",183.0,80.0
+1968,Evangelos Vlasis,GRE,15.71,Male,"27 December 1944 in Sofikon, Attiki (GRE)",179.0,81.0
+1968,Fred Alsop,GBR,15.71,Male,"20 October 1938 in Plaistow, England (GBR)",183.0,75.0
+1968,Johnson Amoah,GHA,15.65,Male,"15 August 1940 in Nkoranza, Brong-Ahafo (GHA)",183.0,73.0
+1968,Aşkın Tuna,TUR,15.65,Male,"21 July 1940 in Manisa, Manisa (TUR)",183.0,77.0
+1968,Heinz-Günter Schenk,GDR,15.61,Male,"16 January 1942 in Salzwedel, Sachsen-Anhalt (GER)",182.0,75.0
+1968,Dragán Ivanov,HUN,15.61,Male,"27 January 1942 in Orosháza, Békes (HUN)",187.0,76.0
+1968,Samuel Igun,NGR,15.46,Male,"28 February 1938 in Warri, Delta (NGR)",176.0,76.0
+1968,Aleksandr Zolotarev,URS,15.41,Male,"13 March 1940 in Volgograd, Volgograd (RUS)",181.0,72.0
+1968,Lennox Burgher,JAM,15.29,Male,17 March 1946 in ? (JAM),180.0,73.0
+1968,Chen Ming-Chi,TPE,15.29,Male,"6 August 1947 in Kaohsiung City, Kaohsiung (TPE)",172.0,62.0
+1968,Klaus Neumann,GDR,15.16,Male,"4 January 1942 in Bystrzyca Kłodzka, Dolnośląskie (POL)",180.0,80.0
+1968,Héctor Serrate,PUR,15.09,Male,"24 July 1946 in Santurce, Puerto Rico (PUR)",170.0,57.0
+1968,Zoltán Cziffra,HUN,15.04,Male,"10 November 1942 in Keszthely, Zala (HUN)",186.0,81.0
+1972,Viktor Saneyev,URS,16.85,Male,"3 October 1945 in Sukhumi, Apkhazeti (GEO)",188.0,78.0
+1972,Jörg Drehmel,GDR,17.31,Male,"3 April 1945 in Trantow, Mecklenburg-Vorpommern (GER)",187.0,83.0
+1972,Nélson Prudêncio,BRA,17.05,Male,"4 April 1944 in Lins, São Paulo (BRA)",182.0,71.0
+1972,Carol Corbu,ROU,16.51,Male,"8 February 1946 in Văleni-Podgoria, Argeș (ROU)",197.0,85.0
+1972,John Craft,USA,16.83,Male,"24 March 1947 in Laurel, Mississippi (USA)",183.0,70.0
+1972,Mansour Dia,SEN,16.55,Male,"27 December 1940 in Dakar, Dakar (SEN)",191.0,85.0
+1972,Michał Joachimowski,POL,16.69,Male,"26 September 1950 in Żnin, Kujawsko-Pomorskie (POL)",185.0,77.0
+1972,Kristen Fløgstad,NOR,16.44,Male,"11 April 1947 in Lunde, Nome, Vestfold og Telemark (NOR)",181.0,70.0
+1972,Mikhail Bariban,URS,16.3,Male,"25 February 1949 in Krasnodar, Krasnodar Kray (RUS)",180.0,72.0
+1972,Bernard Lamitié,FRA,16.24,Male,"27 June 1946 in Paris, Paris (FRA)",180.0,76.0
+1972,Samuel Igun,NGR,16.33,Male,"28 February 1938 in Warri, Delta (NGR)",176.0,76.0
+1972,Toshiaki Inoue,JPN,16.49,Male,3 January 1951,174.0,65.0
+1972,Gábor Katona,HUN,16.19,Male,"1 October 1952 in Budapest, Budapest (HUN)",186.0,81.0
+1972,Kosei Gushiken,JPN,16.19,Male,10 June 1942,172.0,62.0
+1972,Gennady Bessonov,URS,16.18,Male,"10 December 1944 in Shchelkovo, Moskva (RUS)",176.0,67.0
+1972,Giuseppe Gentile,ITA,16.04,Male,"4 September 1943 in Roma, Roma (ITA)",190.0,83.0
+1972,Esa Rinne,FIN,15.98,Male,"3 May 1943 in Äänekoski, Keski-Suomi (FIN)",178.0,75.0
+1972,Václav Fišer,TCH,15.96,Male,"9 July 1947 in Klatovy, Plzeňský kraj (CZE)",186.0,83.0
+1972,Heinz-Günter Schenk,GDR,15.91,Male,"16 January 1942 in Salzwedel, Sachsen-Anhalt (GER)",182.0,75.0
+1972,Mick McGrath,AUS,15.9,Male,28 November 1947,175.0,70.0
+1972,Johnson Amoah,GHA,15.84,Male,"15 August 1940 in Nkoranza, Brong-Ahafo (GHA)",183.0,73.0
+1972,Abraham Munabi,UGA,15.82,Male,19 December 1940,180.0,70.0
+1972,Moise Pomaney,GHA,15.72,Male,22 March 1945,183.0,72.0
+1972,Pedro Pérez,CUB,15.72,Male,"23 February 1952 in Pinar del Río, Pinar del Río (CUB)",180.0,72.0
+1972,Milan Spasojević,YUG,15.69,Male,"15 March 1950 in Niš, Nišava (SRB)",183.0,74.0
+1972,Yukito Muraki,JPN,15.59,Male,"31 July 1945 in Seoul, Seoul (KOR)",173.0,67.0
+1972,Tim Barrett,BAH,15.51,Male,"16 March 1948 in Nassau, New Providence (BAH)",184.0,79.0
+1972,Wilfredo Maisonave,PUR,15.38,Male,17 September 1951,178.0,72.0
+1972,Art Walker,USA,15.29,Male,"9 September 1941 in Columbus, Georgia (USA)",188.0,69.0
+1972,Patrick Onyango,KEN,14.74,Male,22 July 1948,170.0,60.0
+1972,Chen Ming-Chi,TPE,14.73,Male,"6 August 1947 in Kaohsiung City, Kaohsiung (TPE)",172.0,62.0
+1972,Dave Smith,USA,14.55,Male,"8 November 1947 in Los Angeles, California (USA)",183.0,80.0
+1972,Ghazi Saleh Marzouk,KSA,13.82,Male,5 March 1951,176.0,71.0
+1972,Martin Matupi,MAW,13.57,Male,26 November 1942,170.0,66.0
+1976,Viktor Saneyev,URS,17.29,Male,"3 October 1945 in Sukhumi, Apkhazeti (GEO)",188.0,78.0
+1976,James Butts,USA,17.18,Male,"9 May 1950 in South Los Angeles, California (USA)",188.0,82.0
+1976, João do Pulo,BRA,16.9,Male,"28 May 1954 in Pindamonhangaba, São Paulo (BRA)",186.0,76.0
+1976,Pedro Pérez,CUB,16.81,Male,"23 February 1952 in Pinar del Río, Pinar del Río (CUB)",180.0,72.0
+1976,Tommy Haynes,USA,16.78,Male,"14 July 1952 in Nashville, Tennessee (USA)",177.0,75.0
+1976,Wolfgang Kolmsee,FRG,16.68,Male,"25 September 1954 in Oberhausen, Nordrhein-Westfalen (GER)",193.0,76.0
+1976,Eugeniusz Biskupski,POL,16.49,Male,"17 December 1947 in Karczmy, Łódzkie (POL)",188.0,83.0
+1976,Carol Corbu,ROU,16.43,Male,"8 February 1946 in Văleni-Podgoria, Argeș (ROU)",197.0,85.0
+1976,Jiří Vyčichlo,TCH,16.54,Male,"17 May 1946 in Praha (Prague), Hlavní město Praha (CZE)",184.0,80.0
+1976,Pentti Kuukasjärvi,FIN,16.31,Male,"28 November 1946 in Pudasjärvi, Pohjois-Pohjanmaa (FIN)",178.0,73.0
+1976,Bernard Lamitié,FRA,16.39,Male,"27 June 1946 in Paris, Paris (FRA)",180.0,76.0
+1976,Rayfield Dupree,USA,16.5,Male,"2 April 1953 in Los Angeles, California (USA)",185.0,77.0
+1976,Michał Joachimowski,POL,16.29,Male,"26 September 1950 in Żnin, Kujawsko-Pomorskie (POL)",185.0,77.0
+1976,Nélson Prudêncio,BRA,16.22,Male,"4 April 1944 in Lins, São Paulo (BRA)",182.0,71.0
+1976,Valentin Shevchenko,URS,16.15,Male,"5 June 1948 in Orativ, Vinnytsia (UKR)",187.0,77.0
+1976,Toshiaki Inoue,JPN,16.06,Male,3 January 1951,174.0,65.0
+1976,Janoš Hegediš,YUG,16.03,Male,"28 May 1955 in Zemun, Beograd (SRB)",184.0,79.0
+1976,Ramón Cid,ESP,16.0,Male,"15 August 1954 in San Sebastián, Guipúzcoa (ESP)",181.0,72.0
+1976,Armando Herrera,CUB,15.98,Male,25 May 1955,194.0,87.0
+1976,Andrzej Sontag,POL,15.82,Male,"26 April 1951 in Lublin, Lubelskie (POL)",185.0,77.0
+1976,Maxwell Peters,ANT,14.94,Male,22 September 1955,177.0,71.0
+1976,Apostolos Kathiniotis,GRE,14.13,Male,"16 March 1952 in Volos, Thessalia (GRE)",177.0,66.0
+1976,Mohamed Al-Bouhairi,KSA,13.85,Male,4 April 1952,183.0,69.0
+1980,Jaak Uudmäe,URS,17.35,Male,"3 September 1954 in Tallinn, Harjumaa (EST)",190.0,73.0
+1980,Viktor Saneyev,URS,17.24,Male,"3 October 1945 in Sukhumi, Apkhazeti (GEO)",188.0,78.0
+1980, João do Pulo,BRA,17.22,Male,"28 May 1954 in Pindamonhangaba, São Paulo (BRA)",186.0,76.0
+1980,Keith Connor,GBR,16.87,Male,"16 September 1957 in South Hill, Anguilla (AGU)",186.0,78.0
+1980,Ian Campbell,AUS,17.02,Male,18 April 1957,183.0,74.0
+1980,Atanas Chochev,BUL,16.56,Male,"17 January 1957 in Plovdiv, Plovdiv (BUL)",180.0,74.0
+1980,Béla Bakosi,HUN,16.47,Male,"18 June 1957 in Kemecse, Szabolcs-Szatmár-Bereg (HUN)",180.0,67.0
+1980,Ken Lorraway,AUS,16.8,Male,"6 February 1956 in Wagga Wagga, New South Wales (AUS)",181.0,78.0
+1980,Yevgeny Anikin,URS,16.77,Male,13 March 1958 in Lukino (RUS),188.0,73.0
+1980,Milan Spasojević,YUG,16.48,Male,"15 March 1950 in Niš, Nišava (SRB)",183.0,74.0
+1980,Armando Herrera,CUB,16.49,Male,25 May 1955,194.0,87.0
+1980,Christian Valétudie,FRA,16.43,Male,"27 May 1952 in Pointe-à-Pitre, Guadeloupe (FRA)",193.0,89.0
+1980,Ramón Cid,ESP,16.2,Male,"15 August 1954 in San Sebastián, Guipúzcoa (ESP)",181.0,72.0
+1980,Moujhed Fahid Khalifa,IRQ,15.86,Male,1955,182.0,81.0
+1980,Abdoulaye Samba Diallo,SEN,15.68,Male,1946,190.0,78.0
+1980,Zdzisław Hoffmann,POL,15.35,Male,"27 August 1959 in Świebodzin, Lubuskie (POL)",191.0,87.0
+1980,Bogger Mushanga,ZAM,14.79,Male,6 June 1952,185.0,71.0
+1980,Henri Dagba,BEN,14.71,Male,1957
+1980,Dương Đức Thủy,VIE,14.59,Male,14 April 1961,164.0,56.0
+1980,Arthure Agathine,SEY,14.21,Male,17 December 1960,180.0,72.0
+1980,Yadessa Kuma,ETH,13.6,Male,18 December 1952,178.0,71.0
+1984,Al Joyner,USA,16.85,Male,"19 January 1960 in East St. Louis, Illinois (USA)",186.0,77.0
+1984,Mike Conley,USA,17.36,Male,"5 October 1962 in Chicago, Illinois (USA)",185.0,78.0
+1984,Keith Connor,GBR,16.87,Male,"16 September 1957 in South Hill, Anguilla (AGU)",186.0,78.0
+1984,Zou Zhenxian,CHN,16.83,Male,"10 November 1955 in ?, Liaoning (CHN)",184.0,72.0
+1984,Peter Bouschen,FRG,16.77,Male,"16 May 1960 in Düsseldorf, Nordrhein-Westfalen (GER)",181.0,78.0
+1984,Willie Banks,USA,16.75,Male,"11 March 1956 in Travis Air Force Base, California (USA)",190.0,77.0
+1984,Ajayi Agbebaku,NGR,16.93,Male,"12 June 1955 in Benin City, Edo (NGR)",185.0,80.0
+1984,Eric McCalla,GBR,17.01,Male,"18 August 1960 in Birmingham, England (GBR)",179.0,82.0
+1984,Joseph Taiwo,NGR,16.64,Male,"24 August 1959 in Ibadan, Oyo (NGR)",183.0,74.0
+1984,John Herbert,GBR,16.64,Male,"20 April 1962 in Nottingham, England (GBR)",188.0,76.0
+1984,Hassan Badra,EGY,16.07,Male,"19 May 1958 in Bur Said (Port Said), Bur Said (EGY)",181.0,72.0
+1984,Mamadou Diallo,SEN,16.18,Male,16 November 1954,180.0,70.0
+1984,Dimitrios Michas,GRE,16.15,Male,7 June 1958,175.0,60.0
+1984,Steve Hanna,BAH,16.14,Male,"30 January 1958 in Nassau, New Providence (BAH)",180.0,68.0
+1984,Dario Badinelli,ITA,16.13,Male,"10 August 1960 in Ghedi, Brescia (ITA)",185.0,68.0
+1984,Abcélvio Rodrigues,BRA,16.12,Male,"26 May 1957 in Rio de Janeiro, Rio de Janeiro (BRA)",181.0,74.0
+1984,Ralf Jaros,FRG,16.02,Male,"13 December 1965 in Düsseldorf, Nordrhein-Westfalen (GER)",193.0,83.0
+1984,Thomas Eriksson,SWE,15.97,Male,"1 May 1963 in Arbrå, Bollnäs, Gävleborg (SWE)",183.0,80.0
+1984,Ken Lorraway,AUS,15.92,Male,"6 February 1956 in Wagga Wagga, New South Wales (AUS)",181.0,78.0
+1984,Moses Kiyai,KEN,15.9,Male,1962,185.0,75.0
+1984,Paul Emordi,NGR,15.88,Male,25 December 1965,189.0,80.0
+1984,Yasushi Ueta,JPN,15.66,Male,13 November 1955,181.0,72.0
+1984,Park Yeong-Jun,KOR,15.54,Male,29 March 1965,173.0,71.0
+1984,Abdoulaye Traoré,MLI,15.32,Male,29 March 1959
+1984,Denou Koffi,TOG,14.44,Male,4 July 1952,185.0,78.0
+1984,Ernest Tché-Noubossie,CMR,14.39,Male,26 August 1956,185.0,80.0
+1984,Óscar Diesel,PAR,14.19,Male,19 September 1961,178.0,74.0
+1988,Hristo Markov,BUL,17.61,Male,"27 January 1965 in Dimitrovgrad, Haskovo (BUL)",185.0,76.0
+1988,Igor Lapshin,URS,17.52,Male,"8 August 1963 in Minsk, Minsk (BLR)",189.0,74.0
+1988,Aleksandr Kovalenko,URS,17.42,Male,"8 May 1963 in Babruysk, Mahilyow (BLR)",178.0,80.0
+1988,Oleg Protsenko,URS,17.38,Male,"11 August 1963 in Soltsy, Novgorod (RUS)",191.0,82.0
+1988,Charlie Simpkins,USA,17.29,Male,"19 October 1963 in Aiken, South Carolina (USA)",186.0,76.0
+1988,Willie Banks,USA,17.03,Male,"11 March 1956 in Travis Air Force Base, California (USA)",190.0,77.0
+1988,Ivan Slanař,TCH,16.75,Male,"11 January 1961 in Kolín, Středočeský kraj (CZE)",191.0,84.0
+1988,Jacek Pastusiński,POL,16.72,Male,"8 September 1964 in Majdan Królewski, Podkarpackie (POL)",201.0,92.0
+1988,Joseph Taiwo,NGR,16.46,Male,"24 August 1959 in Ibadan, Oyo (NGR)",183.0,74.0
+1988,Norbert Elliott,BAH,16.43,Male,6 November 1962,183.0,78.0
+1988,Didier Falise,BEL,16.35,Male,"3 March 1961 in Oreye, Liège (BEL)",182.0,75.0
+1988,Norifumi Yamashita,JPN,16.29,Male,"10 September 1962 in ?, Mie (JPN)",178.0,66.0
+1988,Vernon Samuels,GBR,16.28,Male,"5 October 1964 in Bristol, England (GBR)",188.0,80.0
+1988,Chen Yanping,CHN,16.25,Male,17 January 1966,180.0,75.0
+1988,Andrzej Grabarczyk,POL,16.24,Male,"12 January 1964 in Poddębice, Łódzkie (POL)",186.0,86.0
+1988,John Herbert,GBR,16.18,Male,"20 April 1962 in Nottingham, England (GBR)",188.0,76.0
+1988,Francis DoDoo,GHA,16.17,Male,"13 April 1960 in Accra, Greater Accra (GHA)",186.0,75.0
+1988,Edrick Floréal,CAN,16.11,Male,"5 October 1966 in Gonaïves (Gonayiv), Artibonite (HAI)",188.0,82.0
+1988,George Wright,CAN,16.09,Male,"20 February 1963 in Savanna-La-Mar, Westmoreland (JAM)",180.0,75.0
+1988,Patterson Johnson,BAH,16.03,Male,26 August 1964,181.0,73.0
+1988,Marios Chatziandreou,CYP,15.95,Male,"19 September 1962 in Lefkosia (Nicosia), Lefkosia (CYP)",183.0,76.0
+1988,Jorge da Silva,BRA,15.95,Male,"4 January 1966 in Porto Alegre, Rio Grande do Sul (BRA)",181.0,76.0
+1988,Jonathan Edwards,GBR,15.88,Male,"10 May 1966 in Westminster, England (GBR)",182.0,73.0
+1988,Park Yeong-Jun,KOR,15.86,Male,29 March 1965,173.0,71.0
+1988,José Quiñaliza,ECU,15.86,Male,21 July 1961,179.0,75.0
+1988,Frank Rutherford,BAH,15.84,Male,23 November 1964,185.0,82.0
+1988,Nai Hui-Fang,TPE,15.74,Male,26 February 1969,178.0,75.0
+1988,Abdul Marzouk Al-Yoha,KUW,15.72,Male,23 November 1968,182.0,72.0
+1988,Robert Cannon,USA,15.69,Male,9 July 1958,185.0,76.0
+1988,Lotfi Khaïda,ALG,15.68,Male,22 December 1968,180.0,75.0
+1988,José Leitão,POR,15.6,Male,"6 April 1965 in Porto, Distrito do Porto (POR)",183.0,70.0
+1988,Ricardo Valiente,PER,15.59,Male,22 August 1968,186.0,74.0
+1988,Ernesto Torres,PUR,15.59,Male,12 December 1959,175.0,62.0
+1988,Brian Wellman,BER,15.47,Male,8 September 1967,175.0,72.0
+1988,Abcélvio Rodrigues,BRA,15.13,Male,"26 May 1957 in Rio de Janeiro, Rio de Janeiro (BRA)",181.0,74.0
+1988,Fathi Khalifa Aboud,LBA,15.13,Male,25 September 1964,175.0,75.0
+1988,Haider Ali Shah,PAK,14.88,Male,5 May 1963,182.0,75.0
+1988,Lennox Adams,VIN,14.73,Male,6 January 1968
+1988,Paulo Noronha,MOZ,14.71,Male,12 September 1966,179.0,74.0
+1988,Devon Hyde,BIZ,14.09,Male,26 December 1967,182.0,64.0
+1988,Toyi Simklina,TOG,13.92,Male,23 December 1968,176.0,60.0
+1992,Mike Conley,USA,17.23,Male,"5 October 1962 in Chicago, Illinois (USA)",185.0,78.0
+1992,Charlie Simpkins,USA,17.6,Male,"19 October 1963 in Aiken, South Carolina (USA)",186.0,76.0
+1992,Frank Rutherford,BAH,17.36,Male,23 November 1964,185.0,82.0
+1992,Leonid Voloshin,EUN,17.32,Male,"30 March 1966 in Vladikavkaz, Respublika Severnaya Osetiya-Alaniya  (RUS)",180.0,74.0
+1992,Brian Wellman,BER,17.24,Male,8 September 1967,175.0,72.0
+1992,Yoelbi Quesada,CUB,17.21,Male,"4 August 1973 in Manacas Iznaga, Sancti Spíritus (CUB)",181.0,83.0
+1992,Aleksandr Kovalenko,EUN,17.06,Male,"8 May 1963 in Babruysk, Mahilyow (BLR)",178.0,80.0
+1992,Zou Sixin,CHN,17.07,Male,"8 May 1967 in Hengyang, Hunan (CHN)",178.0,76.0
+1992,Vasily Sokov,EUN,16.86,Male,"7 April 1968 in Dushanbe, Nohijahoi Tobei Çumhuri (TJK)",186.0,73.0
+1992,Māris Bružiks,LAT,16.94,Male,"25 August 1962 in Pļaviņas, Pļaviņu novads (LAT)",187.0,73.0
+1992,Pierre Camara,FRA,17.34,Male,"15 September 1965 in Castres, Tarn (FRA)",181.0,74.0
+1992,Eugeniusz Bedeniczuk,POL,16.92,Male,"6 January 1961 in Lachy, Podlaskie (POL)",186.0,80.0
+1992,Ralf Jaros,GER,16.89,Male,"13 December 1965 in Düsseldorf, Nordrhein-Westfalen (GER)",193.0,83.0
+1992,Toussaint Rabenala,MAD,16.84,Male,29 October 1965,178.0,71.0
+1992,Milan Mikuláš,TCH,16.82,Male,"1 April 1963 in Trnava, Trnava (SVK)",193.0,84.0
+1992,Abdul Marzouk Al-Yoha,KUW,16.75,Male,23 November 1968,182.0,72.0
+1992,Francis Agyepong,GBR,16.55,Male,"16 June 1965 in Brent, England (GBR)",179.0,73.0
+1992,Georges Sainte-Rose,FRA,16.5,Male,"3 September 1969 in Fort-de-France, Martinique (FRA)",184.0,66.0
+1992,Serge Hélan,FRA,16.47,Male,"24 February 1964 in Pointe-à-Pitre, Guadeloupe (FRA)",176.0,70.0
+1992,Hristo Markov,BUL,16.46,Male,"27 January 1965 in Dimitrovgrad, Haskovo (BUL)",185.0,76.0
+1992,Paul Nioze,SEY,16.32,Male,19 March 1967,189.0,80.0
+1992,Lotfi Khaïda,ALG,16.31,Male,22 December 1968,180.0,75.0
+1992,Rogel Nachum,ISR,16.23,Male,21 May 1967,181.0,71.0
+1992,John Tillman,USA,16.22,Male,"11 February 1965 in Lancaster, South Carolina (USA)",188.0,77.0
+1992,Julian Golley,GBR,16.18,Male,"12 September 1971 in Hammersmith, England (GBR)",186.0,80.0
+1992,Sizwe Sydney Mdluli,SWZ,16.18,Male,17 May 1969,188.0,76.0
+1992,Santiago Moreno,ESP,16.04,Male,"2 February 1964 in San Miguel de Corneja, Ávila (ESP)",182.0,75.0
+1992,Anísio Silva,BRA,16.03,Male,"18 June 1969 in Guarulhos, São Paulo (BRA)",183.0,81.0
+1992,Norifumi Yamashita,JPN,15.97,Male,"10 September 1962 in ?, Mie (JPN)",178.0,66.0
+1992,Ndabezinhle Mdhlongwa,ZIM,15.96,Male,30 May 1973,176.0,69.0
+1992,Alvin Haynes,BAR,15.93,Male,6 June 1968,188.0,93.0
+1992,Norbert Elliott,BAH,15.85,Male,6 November 1962,183.0,78.0
+1992,Andrzej Grabarczyk,POL,15.79,Male,"12 January 1964 in Poddębice, Łódzkie (POL)",186.0,86.0
+1992,Jonathan Edwards,GBR,15.76,Male,"10 May 1966 in Westminster, England (GBR)",182.0,73.0
+1992,Chen Yanping,CHN,15.66,Male,17 January 1966,180.0,75.0
+1992,Tord Henriksson,SWE,15.66,Male,"13 April 1965 in Karlstad, Värmland (SWE)",189.0,85.0
+1992,Jorge da Silva,BRA,15.64,Male,"4 January 1966 in Porto Alegre, Rio Grande do Sul (BRA)",181.0,76.0
+1992,Marios Chatziandreou,CYP,15.64,Male,"19 September 1962 in Lefkosia (Nicosia), Lefkosia (CYP)",183.0,76.0
+1992,António dos Santos,ANG,15.48,Male,3 September 1964,189.0,87.0
+1992,Banarus Muhammad Khan,PAK,15.37,Male,31 August 1969,180.0,80.0
+1992,Luis Flores,HON,15.08,Male,27 October 1967,197.0,80.0
+1992,Nikolay Raev,BUL,14.67,Male,"29 January 1971 in Ruse, Ruse (BUL)",184.0,71.0
+1992,Elston Shaw,BIZ,13.56,Male,16 December 1972,182.0,67.0
+1996,Kenny Harrison,USA,18.09,Male,"13 February 1965 in Milwaukee, Wisconsin (USA)",178.0,77.0
+1996,Jonathan Edwards,GBR,17.88,Male,"10 May 1966 in Westminster, England (GBR)",182.0,73.0
+1996,Yoelbi Quesada,CUB,17.44,Male,"4 August 1973 in Manacas Iznaga, Sancti Spíritus (CUB)",181.0,83.0
+1996,Mike Conley,USA,17.4,Male,"5 October 1962 in Chicago, Illinois (USA)",185.0,78.0
+1996,Armen Martirosyan,ARM,16.97,Male,"6 August 1969 in Gyumri, Shirak (ARM)",187.0,75.0
+1996,Brian Wellman,BER,17.1,Male,8 September 1967,175.0,72.0
+1996,Galin Georgiev,BUL,17.02,Male,"23 March 1970 in Dobrich, Dobrich (BUL)",184.0,78.0
+1996,Robert Howard,USA,16.92,Male,"26 November 1975 in Brooklyn, New York, New York (USA)",178.0,75.0
+1996,Viktor Sotnikov,RUS,16.86,Male,12 September 1974,190.0,76.0
+1996,Volodymyr Kravchenko,UKR,16.9,Male,22 December 1969,184.0,76.0
+1996,Frank Rutherford,BAH,16.73,Male,23 November 1964,185.0,82.0
+1996,Jérôme Romain,DMA,16.8,Male,"12 June 1971 in Sandy Ground, Saint-Martin (MRT)",183.0,76.0
+1996,Francis Agyepong,GBR,16.71,Male,"16 June 1965 in Brent, England (GBR)",179.0,73.0
+1996,Charles Friedek,GER,16.71,Male,"26 August 1971 in Gießen, Hessen (GER)",184.0,80.0
+1996,Aliecer Urrutia,CUB,16.71,Male,"22 September 1974 in Placetas, Villa Clara (CUB)",174.0,76.0
+1996,Vasily Sokov,RUS,16.68,Male,"7 April 1968 in Dushanbe, Nohijahoi Tobei Çumhuri (TJK)",186.0,73.0
+1996,Rogel Nachum,ISR,16.67,Male,21 May 1967,181.0,71.0
+1996,Anísio Silva,BRA,16.67,Male,"18 June 1969 in Guarulhos, São Paulo (BRA)",183.0,81.0
+1996,Carlos Calado,POR,16.65,Male,"5 October 1975 in Alcanena, Distrito de Santarém (POR)",186.0,80.0
+1996,Yoel García,CUB,16.62,Male,"25 November 1973 in Nueva Gerona, Isla de la Juventud (CUB)",181.0,83.0
+1996,Zou Sixin,CHN,16.53,Male,"8 May 1967 in Hengyang, Hunan (CHN)",178.0,76.0
+1996,Messias José Baptista,BRA,16.45,Male,"24 May 1968 in São Paulo, São Paulo (BRA)"
+1996,Audrius Raizgys,LTU,16.38,Male,"4 April 1969 in Plungė, Telšiai (LTU)",185.0,80.0
+1996,Zsolt Czingler,HUN,16.35,Male,"28 April 1971 in Budapest, Budapest (HUN)",188.0,72.0
+1996,Salem Al-Ahmadi,KSA,16.3,Male,12 September 1969,185.0,75.0
+1996,Francis DoDoo,GHA,16.24,Male,"13 April 1960 in Accra, Greater Accra (GHA)",186.0,75.0
+1996,Vasif Əsadov,AZE,16.21,Male,27 August 1965,180.0,69.0
+1996,Jacob Katonon,KEN,16.17,Male,5 October 1969,192.0,77.0
+1996,Stoyko Tsonov,BUL,16.15,Male,"6 May 1969 in Boretz, Plovdiv (BUL)",180.0,76.0
+1996,Aleksey Fatyanov,AZE,16.14,Male,14 June 1969,180.0,73.0
+1996,Igor Sautkin,RUS,16.06,Male,23 February 1972,190.0,79.0
+1996,Tibor Ordina,HUN,16.04,Male,"17 March 1971 in Budapest, Budapest (HUN)",193.0,75.0
+1996,Andrew Murphy,AUS,16.0,Male,"18 December 1969 in Melbourne, Victoria (AUS)",185.0,78.0
+1996,Festus Igbinoghene,NGR,15.95,Male,21 October 1969,180.0,73.0
+1996,Sergey Arzamasov,KAZ,15.91,Male,"9 April 1971 in Shymkent, Ongutsik Qazaqstan (KAZ)",190.0,75.0
+1996,Maksim Smetanin,KGZ,15.9,Male,17 February 1974,185.0,70.0
+1996,Yevgeny Petin,UZB,15.89,Male,29 January 1975,182.0,71.0
+1996,Paul Nioze,SEY,15.63,Male,19 March 1967,189.0,80.0
+1996,Kawan Lovelace,BIZ,15.4,Male,29 June 1976,188.0,79.0
+1996,Hussain Jasim,IRQ,15.27,Male,22 July 1966,170.0,82.0
+1996,Ndabezinhle Mdhlongwa,ZIM,14.47,Male,30 May 1973,176.0,69.0
+1996,Karim Sassi,TUN,14.25,Male,22 December 1968,185.0,77.0
+2000,Jonathan Edwards,GBR,17.71,Male,"10 May 1966 in Westminster, England (GBR)",182.0,73.0
+2000,Yoel García,CUB,17.47,Male,"25 November 1973 in Nueva Gerona, Isla de la Juventud (CUB)",181.0,83.0
+2000,Denis Kapustin,RUS,17.46,Male,"5 October 1970 in Kazan, Respublika Tatarstan (RUS)",190.0,84.0
+2000,Yoelbi Quesada,CUB,17.37,Male,"4 August 1973 in Manacas Iznaga, Sancti Spíritus (CUB)",181.0,83.0
+2000,Larry Achike,GBR,17.3,Male,"31 January 1975 in Islington, England (GBR)",188.0,75.0
+2000,Phillips Idowu,GBR,17.12,Male,"30 December 1978 in Hackney, England (GBR)",197.0,89.0
+2000,Robert Howard,USA,17.05,Male,"26 November 1975 in Brooklyn, New York, New York (USA)",178.0,75.0
+2000,Paolo Camossi,ITA,16.96,Male,"6 January 1974 in Gorizia, Gorizia (ITA)",176.0,72.0
+2000,Rostislav Dimitrov,BUL,17.0,Male,"26 December 1974 in Ruse, Ruse (BUL)",185.0,80.0
+2000,Andrew Murphy,AUS,17.12,Male,"18 December 1969 in Melbourne, Victoria (AUS)",185.0,78.0
+2000,Walter Davis,USA,16.75,Male,"2 July 1979 in Lafayette, Louisiana (USA)",188.0,83.0
+2000,Charles Friedek,GER,16.93,Male,"26 August 1971 in Gießen, Hessen (GER)",184.0,80.0
+2000,Ketill Hanstveit,NOR,16.75,Male,"2 November 1973 in Bergen, Vestland (NOR)",178.0,65.0
+2000,Ionuț Pungă,ROU,16.72,Male,"14 October 1979 in Brăila, Brăila (ROU)",180.0,66.0
+2000,Sergey Arzamasov,KAZ,16.7,Male,"9 April 1971 in Shymkent, Ongutsik Qazaqstan (KAZ)",190.0,75.0
+2000,Takanori Sugibayashi,JPN,16.67,Male,"14 March 1976 in Kanazawa, Ishikawa (JPN)",185.0,65.0
+2000,Christian Olsson,SWE,16.64,Male,"25 January 1980 in Gårdsten, Göteborg, Västra Götaland (SWE)",192.0,73.0
+2000,Zsolt Czingler,HUN,16.52,Male,"28 April 1971 in Budapest, Budapest (HUN)",188.0,72.0
+2000,LaMark Carter,USA,16.47,Male,"23 August 1970 in Shreveport, Louisiana (USA)",180.0,75.0
+2000,Brian Wellman,BER,16.47,Male,8 September 1967,175.0,72.0
+2000,Lao Jianfeng,CHN,16.43,Male,"24 May 1975 in Shunde, Guangdong (CHN)",183.0,70.0
+2000,Ivaylo Rusenov,BUL,16.4,Male,"9 September 1979 in Pleven, Pleven (BUL)",182.0,75.0
+2000,Rogel Nachum,ISR,16.39,Male,21 May 1967,181.0,71.0
+2000,Gennady Markov,RUS,16.36,Male,"15 June 1967 in Izobilny, Stavropol Kray (RUS)",183.0,79.0
+2000,Fabrizio Donato,ITA,16.34,Male,"14 August 1976 in Latina, Latina (ITA)",189.0,83.0
+2000,Zoran Đurđević,SCG,16.31,Male,3 April 1968,183.0,74.0
+2000,Michael Calvo,CUB,16.3,Male,"26 December 1977 in Limonar, Matanzas (CUB)",182.0,65.0
+2000,Oleg Sakirkin,KAZ,16.2,Male,"23 January 1966 in Shymkent, Ongutsik Qazaqstan (KAZ)",182.0,72.0
+2000,Serhiy Izmailov,UKR,16.1,Male,1 May 1975,180.0,72.0
+2000,Sergey Boçkov,AZE,16.01,Male,20 August 1979,182.0,72.0
+2000,Christos Meletoglou,GRE,16.0,Male,"25 December 1971 in Heinsberg, Nordrhein-Westfalen (GER)",190.0,80.0
+2000,Salem Al-Ahmadi,KSA,15.99,Male,12 September 1969,185.0,75.0
+2000,Igor Spasovkhodsky,RUS,15.79,Male,"1 August 1979 in Moskva (Moscow), Moskva (RUS)",191.0,91.0
+2000,Yevgeny Petin,UZB,15.27,Male,29 January 1975,182.0,71.0
+2000,Armen Martirosyan,ARM,14.95,Male,"6 August 1969 in Gyumri, Shirak (ARM)",187.0,75.0
+2000,Colomba Fofana,FRA,14.59,Male,"11 April 1977 in Courbevoie, Hauts-de-Seine (FRA)",186.0,76.0
+2000,Kostis Zalagkitis,GRE,14.15,Male,"15 December 1980 in Trikala, Thessalia (GRE)",187.0,75.0
+2000,Andrew Owusu,GHA,14.12,Male,8 July 1972,180.0,75.0
+2004,Christian Olsson,SWE,17.79,Male,"25 January 1980 in Gårdsten, Göteborg, Västra Götaland (SWE)",192.0,73.0
+2004,Marian Oprea,ROU,17.55,Male,"6 June 1982 in Pitești, Argeș (ROU)",191.0,85.0
+2004,Daniil Burkenya,RUS,17.48,Male,"20 July 1978 in Aşgabat, Ashgabat (TKM)",198.0,85.0
+2004,Yoandri Betanzos,CUB,17.53,Male,"15 February 1982 in Ciego de Ávila, Ciego de Ávila (CUB)",180.0,71.0
+2004,Jadel Gregório,BRA,17.31,Male,"16 September 1980 in Jandaia do Sul, Paraná (BRA)",202.0,102.0
+2004,Christos Meletoglou,GRE,17.13,Male,"25 December 1971 in Heinsberg, Nordrhein-Westfalen (GER)",190.0,80.0
+2004,Viktor Gushchinsky,RUS,17.17,Male,"12 August 1978 in Norilsk, Krasnoyarsk Kray (RUS)",202.0,96.0
+2004,Yoelbi Quesada,CUB,17.01,Male,"4 August 1973 in Manacas Iznaga, Sancti Spíritus (CUB)",181.0,83.0
+2004,Kenta Bell,USA,16.98,Male,"16 March 1977 in Henderson, Texas (USA)",183.0,77.0
+2004,Julien Kapek,FRA,16.91,Male,"12 January 1979 in Clamart, Hauts-de-Seine (FRA)",178.0,71.0
+2004,Walter Davis,USA,16.94,Male,"2 July 1979 in Lafayette, Louisiana (USA)",188.0,83.0
+2004,Phillips Idowu,GBR,17.33,Male,"30 December 1978 in Hackney, England (GBR)",197.0,89.0
+2004,Nathan Douglas,GBR,16.84,Male,"4 December 1982 in Oxford, England (GBR)",183.0,76.0
+2004,Andrew Murphy,AUS,16.82,Male,"18 December 1969 in Melbourne, Victoria (AUS)",185.0,78.0
+2004,Li Yanxi,CHN,16.74,Male,"26 June 1983 in Shijiazhuang, Hebei (CHN)",188.0,77.0
+2004,Ibrahim Aboubaker,QAT,16.71,Male,10 December 1982 in ? (QAT),190.0,65.0
+2004,Arnie Giralt,CUB,16.7,Male,"26 August 1984 in Santiago de Cuba, Santiago de Cuba (CUB)",182.0,72.0
+2004,Mel Lister,USA,16.64,Male,"29 August 1977 in New York, New York (USA)",188.0,75.0
+2004,Andrew Owusu,GHA,16.64,Male,8 July 1972,180.0,75.0
+2004,Mykola Savolainen,UKR,16.56,Male,"25 March 1980 in Kyiv, Kyiv (UKR)",190.0,75.0
+2004,Fabrizio Donato,ITA,16.45,Male,"14 August 1976 in Latina, Latina (ITA)",189.0,83.0
+2004,Momchil Karailiev,BUL,16.45,Male,"21 May 1982 in Sliven, Sliven (BUL)",190.0,75.0
+2004,Viktor Yastrebov,UKR,16.43,Male,"13 January 1982 in Nadvirna, Ivano-Frankivsk (UKR)",186.0,76.0
+2004,Ivaylo Rusenov,BUL,16.39,Male,"9 September 1979 in Pleven, Pleven (BUL)",182.0,75.0
+2004,Mohammad Hazouri,SYR,16.37,Male,"1 January 1983 in Halab (Aleppo), Halab (SYR)",178.0,65.0
+2004,Péter Tölgyesi,HUN,16.36,Male,"9 June 1981 in Budapest, Budapest (HUN)",199.0,89.0
+2004,Leevan Sands,BAH,16.35,Male,"16 August 1981 in Nassau, New Providence (BAH)",191.0,82.0
+2004,Randy Lewis,GRN,16.33,Male,"15 November 1978 in St. Andrew's, Saint Andrew (GRN)",188.0,74.0
+2004,Khotso Mokoena,RSA,16.32,Male,"6 March 1985 in Heidelberg, Gauteng (RSA)",190.0,76.0
+2004,Dzmitry Valiukevich,BLR,16.32,Male,"31 May 1981 in Petrozavodsk, Respublika Kareliya (RUS)",186.0,78.0
+2004,Andreas Pohle,GER,16.29,Male,"6 April 1981 in Erfurt, Thüringen (GER)",179.0,73.0
+2004,Vladimir Letnicov,MDA,16.25,Male,"7 October 1981 in Chișinău, Chișinău (MDA)",178.0,70.0
+2004,Lauri Leis,EST,16.18,Male,"7 October 1978 in Võru, Võrumaa (EST)",184.0,73.0
+2004,Aliaksandr Hlavatski,BLR,16.18,Male,"2 May 1970 in Salihorsk, Minsk Voblast (BLR)",187.0,82.0
+2004,Salem Al-Ahmadi,KSA,16.16,Male,12 September 1969,185.0,75.0
+2004,LeJuan Simon,TTO,16.16,Male,"7 February 1981 in Houston, Texas (USA)",188.0,88.0
+2004,Boštjan Šimunič,SLO,16.07,Male,"28 December 1974 in Novo Mesto, Novo mesto (SLO)",186.0,78.0
+2004,Takanori Sugibayashi,JPN,16.0,Male,"14 March 1976 in Kanazawa, Ishikawa (JPN)",185.0,65.0
+2004,Park Hyeong-Jin,KOR,15.84,Male,29 April 1983,180.0,70.0
+2004,Nelson Évora,POR,15.72,Male,"20 April 1984 in Abidjan, Abidjan (CIV)",182.0,72.0
+2004,Olivier Sanou,BUR,15.67,Male,2 July 1975,185.0,85.0
+2004,Karl Taillepierre,FRA,15.5,Male,"13 August 1976 in Pointe-à-Pitre, Guadeloupe (FRA)",176.0,64.0
+2004,Armen Martirosyan,ARM,15.05,Male,"6 August 1969 in Gyumri, Shirak (ARM)",187.0,75.0
+2008,Nelson Évora,POR,17.67,Male,"20 April 1984 in Abidjan, Abidjan (CIV)",182.0,72.0
+2008,Phillips Idowu,GBR,17.62,Male,"30 December 1978 in Hackney, England (GBR)",197.0,89.0
+2008,Leevan Sands,BAH,17.59,Male,"16 August 1981 in Nassau, New Providence (BAH)",191.0,82.0
+2008,Arnie Giralt,CUB,17.52,Male,"26 August 1984 in Santiago de Cuba, Santiago de Cuba (CUB)",182.0,72.0
+2008,Marian Oprea,ROU,17.22,Male,"6 June 1982 in Pitești, Argeș (ROU)",191.0,85.0
+2008,Jadel Gregório,BRA,17.2,Male,"16 September 1980 in Jandaia do Sul, Paraná (BRA)",202.0,102.0
+2008,Larry Achike,GBR,17.18,Male,"31 January 1975 in Islington, England (GBR)",188.0,75.0
+2008,Viktor Kuznietsov,UKR,17.11,Male,"17 July 1986 in Zaporizhzhia, Zaporizhzhia (UKR)",194.0,77.0
+2008,Igor Spasovkhodsky,RUS,17.23,Male,"1 August 1979 in Moskva (Moscow), Moskva (RUS)",191.0,91.0
+2008,Li Yanxi,CHN,17.3,Male,"26 June 1983 in Shijiazhuang, Hebei (CHN)",188.0,77.0
+2008,Momchil Karailiev,BUL,17.12,Male,"21 May 1982 in Sliven, Sliven (BUL)",190.0,75.0
+2008,Héctor Fuentes,CUB,17.14,Male,19 May 1988,183.0,84.0
+2008,Alexis Copello,CUB,17.09,Male,"12 August 1985 in Santiago de Cuba, Santiago de Cuba (CUB)",185.0,80.0
+2008,Dmitrij Val'ukevič,SVK,17.08,Male,"31 May 1981 in Petrozavodsk, Respublika Kareliya (RUS)",186.0,78.0
+2008,Randy Lewis,GRN,17.06,Male,"15 November 1978 in St. Andrew's, Saint Andrew (GRN)",188.0,74.0
+2008,Mykola Savolainen,UKR,17.0,Male,"25 March 1980 in Kyiv, Kyiv (UKR)",190.0,75.0
+2008,Aleksandr Petrenko,RUS,16.97,Male,"8 February 1983 in Kaliningrad, Kaliningrad (RUS)",183.0,75.0
+2008,Kim Deok-Hyeon,KOR,16.88,Male,"8 December 1985 in Gwangju, Gwangju (KOR)",180.0,71.0
+2008,Rafeeq Curry,USA,16.88,Male,"19 August 1983 in Miami, Florida (USA)",185.0,73.0
+2008,Nathan Douglas,GBR,16.72,Male,"4 December 1982 in Oxford, England (GBR)",183.0,76.0
+2008,Fabrizio Donato,ITA,16.7,Male,"14 August 1976 in Latina, Latina (ITA)",189.0,83.0
+2008,Daniil Burkenya,RUS,16.69,Male,"20 July 1978 in Aşgabat, Ashgabat (TKM)",198.0,85.0
+2008,Dimitrios Tsiamis,GRE,16.65,Male,"12 January 1982 in Karditsa, Thessalia (GRE)",178.0,67.0
+2008,Vladimir Letnicov,MDA,16.62,Male,"7 October 1981 in Chișinău, Chișinău (MDA)",178.0,70.0
+2008,Kenta Bell,USA,16.55,Male,"16 March 1977 in Henderson, Texas (USA)",183.0,77.0
+2008,Viktor Yastrebov,UKR,16.52,Male,"13 January 1982 in Nadvirna, Ivano-Frankivsk (UKR)",186.0,76.0
+2008,Dzmitry Platnitski,BLR,16.51,Male,"26 August 1988 in Brest, Brest (BLR)",191.0,83.0
+2008,Jefférson Sabino,BRA,16.45,Male,"4 November 1982 in Guarulhos, São Paulo (BRA)",192.0,94.0
+2008,Colomba Fofana,FRA,16.42,Male,"11 April 1977 in Courbevoie, Hauts-de-Seine (FRA)",186.0,76.0
+2008,Roman Valiyev,KAZ,16.2,Male,"27 March 1984 in Orenburg, Orenburg (RUS)",190.0,76.0
+2008,Ibrahim Aboubaker,QAT,16.03,Male,10 December 1982 in ? (QAT),190.0,65.0
+2008,Hugo Mamba-Schlick,CMR,16.01,Male,"1 February 1982 in Sarcelles, Val-d'Oise (FRA)"
+2008,Aarik Wilson,USA,15.97,Male,"25 October 1982 in Reno, Nevada (USA)",191.0,88.0
+2008,Gu Junjie,CHN,15.94,Male,"5 May 1985 in Chengdu, Sichuan (CHN)",188.0,88.0
+2008,Renjith Maheshwary,IND,15.77,Male,"30 January 1986 in Kottayam, Kerala (IND)",184.0,79.0
+2008,Zhong Minwei,CHN,15.59,Male,"9 April 1987 in Qingdao, Shandong (CHN)",180.0,65.0
+2008,Redžep Selman,MKD,15.29,Male,"8 April 1986 in Ohrid, Ohrid (MKD)",183.0,77.0
+2012,Christian Taylor,USA,17.81,Male,"18 June 1990 in Uniondale, New York (USA)",188.0,81.0
+2012,Will Claye,USA,17.62,Male,"13 June 1991 in Tucson, Arizona (USA)",181.0,72.0
+2012,Fabrizio Donato,ITA,17.48,Male,"14 August 1976 in Latina, Latina (ITA)",189.0,83.0
+2012,Daniele Greco,ITA,17.34,Male,"1 March 1989 in Nardò, Lecce (ITA)",184.0,75.0
+2012,Leevan Sands,BAH,17.19,Male,"16 August 1981 in Nassau, New Providence (BAH)",191.0,82.0
+2012,Benjamin Compaoré,FRA,17.08,Male,"5 August 1987 in Bar-le-Duc, Meuse (FRA)",189.0,83.0
+2012,Tosin Oke,NGR,16.95,Male,"1 October 1980 in London, England (GBR)",179.0,78.0
+2012,Alexis Copello,CUB,16.92,Male,"12 August 1985 in Santiago de Cuba, Santiago de Cuba (CUB)",185.0,80.0
+2012,Dong Bin,CHN,16.94,Male,"22 November 1988 in Hengyang, Hunan (CHN)",180.0,74.0
+2012,Samyr Lainé,HAI,16.81,Male,"17 July 1984 in Nyack, New York (USA)",188.0,82.0
+2012,Dzmitry Platnitski,BLR,16.62,Male,"26 August 1988 in Brest, Brest (BLR)",191.0,83.0
+2012,Sheryf El-Sheryf,UKR,16.6,Male,"2 January 1989 in Simferopol, Krym (UKR)",183.0,75.0
+2012,Phillips Idowu,GBR,16.53,Male,"30 December 1978 in Hackney, England (GBR)",197.0,89.0
+2012,Issam Nima,ALG,16.5,Male,"8 April 1979 in Al-Jaza'ir (Algiers), Al-Jaza'ir (ALG)",187.0,75.0
+2012,Arnie Giralt,CUB,16.45,Male,"26 August 1984 in Santiago de Cuba, Santiago de Cuba (CUB)",182.0,72.0
+2012,Henry Frayne,AUS,16.4,Male,"14 April 1990 in Adelaide, South Australia (AUS)",188.0,83.0
+2012,Muhammad Halim,ISV,16.39,Male,"26 October 1986 in Christiansted, St. Croix (ISV)",191.0,82.0
+2012,Yevgeny Ektov,KAZ,16.31,Male,"1 September 1986 in Petropavl, Soltustyk Qazaqstan      (KAZ)",187.0,75.0
+2012,Cao Shuo,CHN,16.27,Male,"8 October 1991 in Baoding, Hebei (CHN)",180.0,77.0
+2012,Roman Valiyev,KAZ,16.23,Male,"27 March 1984 in Orenburg, Orenburg (RUS)",190.0,76.0
+2012,Kim Deok-Hyeon,KOR,16.22,Male,"8 December 1985 in Gwangju, Gwangju (KOR)",180.0,71.0
+2012,Yoandri Betanzos,CUB,16.22,Male,"15 February 1982 in Ciego de Ávila, Ciego de Ávila (CUB)",180.0,71.0
+2012,Mohamed Abbas Darwish,UAE,16.06,Male,"28 March 1986 in Dubai, Dubai (UAE)",176.0,74.0
+2012,Adrián Sornoza,ECU,16.04,Male,"5 August 1992 in Portoviejo, Manabí (ECU)",176.0,66.0
+2012,Jonathan Silva,BRA,15.59,Male,"21 July 1991 in Varginha, Minas Gerais (BRA)",188.0,84.0
+2016,Christian Taylor,USA,17.86,Male,"18 June 1990 in Uniondale, New York (USA)",188.0,81.0
+2016,Will Claye,USA,17.76,Male,"13 June 1991 in Tucson, Arizona (USA)",181.0,72.0
+2016,Dong Bin,CHN,17.58,Male,"22 November 1988 in Hengyang, Hunan (CHN)",180.0,74.0
+2016,Cao Shuo,CHN,17.13,Male,"8 October 1991 in Baoding, Hebei (CHN)",180.0,77.0
+2016,Jhon Murillo,COL,17.09,Male,"13 July 1984 in Apartadó, Antioquia (COL)",183.0,84.0
+2016,Nelson Évora,POR,17.03,Male,"20 April 1984 in Abidjan, Abidjan (CIV)",182.0,72.0
+2016,Troy Doris,GUY,16.9,Male,"12 April 1989 in Chicago, Illinois (USA)",172.0,74.0
+2016,Lázaro Martínez,CUB,16.68,Male,"3 November 1997 in Guantánamo, Guantánamo (CUB)",192.0,83.0
+2016,Alberto Álvarez,MEX,16.67,Male,"8 March 1991 in Cancún, Quintana Roo (MEX)",191.0,78.0
+2016,Benjamin Compaoré,FRA,16.72,Male,"5 August 1987 in Bar-le-Duc, Meuse (FRA)",189.0,83.0
+2016,Xu Xiaolong,CHN,16.65,Male,"20 December 1992 in Chongqing, Chongqing (CHN)",185.0,70.0
+2016,Karol Hoffmann,POL,16.79,Male,"1 June 1989 in Warszawa (Warsaw), Mazowieckie (POL)",197.0,80.0
+2016,Harold Correa,FRA,16.6,Male,"26 June 1988 in Epinay-sur-Seine, Seine-Saint-Denis (FRA)",190.0,81.0
+2016,Ernesto Revé,CUB,16.58,Male,"26 February 1992 in Guantánamo, Guantánamo (CUB)",182.0,79.0
+2016,Max Heß,GER,16.56,Male,"13 July 1996 in Chemnitz, Sachsen (GER)",185.0,80.0
+2016,Chris Benard,USA,16.55,Male,"9 April 1990 in Tustin, California (USA)",191.0,84.0
+2016,Fabrizio Donato,ITA,16.54,Male,"14 August 1976 in Latina, Latina (ITA)",189.0,83.0
+2016,Leevan Sands,BAH,16.53,Male,"16 August 1981 in Nassau, New Providence (BAH)",191.0,82.0
+2016,Dzmitry Platnitski,BLR,16.52,Male,"26 August 1988 in Brest, Brest (BLR)",191.0,83.0
+2016,Maksim Niestsiarenka,BLR,16.52,Male,"1 September 1992 in Mahilyow, Mahilyow (BLR)",193.0,82.0
+2016,Khotso Mokoena,RSA,16.51,Male,"6 March 1985 in Heidelberg, Gauteng (RSA)",190.0,76.0
+2016,Fabian Florant,NED,16.51,Male,"1 February 1983 in Mahaut, Saint Paul (DMA)",180.0,74.0
+2016,Tosin Oke,NGR,16.47,Male,"1 October 1980 in London, England (GBR)",179.0,78.0
+2016,Mamadou Chérif Dia,MLI,16.45,Male,"16 October 1984 in Kayes, Kayes (MLI)",180.0,70.0
+2016,Nazim Babayev,AZE,16.38,Male,"8 October 1997 in Bakı, Bakı (AZE)",187.0,74.0
+2016,Rumen Dimitrov,BUL,16.36,Male,"19 September 1986 in Plovdiv, Plovdiv (BUL)",175.0,77.0
+2016,Kim Deok-Hyeon,KOR,16.36,Male,"8 December 1985 in Gwangju, Gwangju (KOR)",180.0,71.0
+2016,Jonathan Drack,MRI,16.21,Male,"6 November 1988 in Beau Bassin-Rose Hill, Plaines Wilhems (MRI)",184.0,73.0
+2016,Daigo Hasegawa,JPN,16.17,Male,"27 February 1990 in Yokohama, Kanagawa (JPN)",173.0,58.0
+2016,Renjith Maheshwary,IND,16.13,Male,"30 January 1986 in Kottayam, Kerala (IND)",184.0,79.0
+2016,Pablo Torrijos,ESP,16.11,Male,"12 May 1992 in Castellón de la Plana, Castellón (ESP)",185.0,76.0
+2016,Olu Olamigoke,NGR,16.1,Male,"19 September 1990 in Arlington, Virginia (USA)",175.0,72.0
+2016,Clive Pullen,JAM,16.08,Male,"18 October 1994 in Kingston, Kingston (JAM)",183.0,83.0
+2016,Hugues Zango,BUR,15.99,Male,"25 June 1993 in Ouagadougou, Centre (BUR)",180.0,78.0
+2016,Kohei Yamashita,JPN,15.71,Male,"6 September 1994 in Fukushima, Fukushima (JPN)",179.0,69.0
+2016,Levon Aghasyan,ARM,15.54,Male,"19 January 1995 in Kapan, Syunik (ARM)",193.0,75.0
+2016,Artsiom Bandarenka,BLR,15.43,Male,"19 June 1991 in Rahachow, Homel (BLR)",187.0,78.0
+2016,Vladimir Letnicov,MDA,15.29,Male,"7 October 1981 in Chișinău, Chișinău (MDA)",178.0,70.0
+2016,Georgi Tsonov,BUL,15.2,Male,"2 May 1993 in Sliven, Sliven (BUL)",176.0,70.0
+2020,Pedro Pablo Pichardo,POR,17.98,Male,"30 June 1993 in Santiago de Cuba, Santiago de Cuba (CUB)",186.0,71.0
+2020,Zhu Yaming,CHN,17.57,Male,4 May 1994
+2020,Hugues Zango,BUR,17.47,Male,"25 June 1993 in Ouagadougou, Centre (BUR)",180.0,78.0
+2020,Will Claye,USA,17.44,Male,"13 June 1991 in Tucson, Arizona (USA)",181.0,72.0
+2020,Yasser Triki,ALG,17.43,Male,"24 March 1997 in Constantine, Constantine (ALG)"
+2020,Necati Er,TUR,17.25,Male,24 February 1997
+2020,Donald Scott,USA,17.18,Male,23 February 1992
+2020,Fang Yaoqing,CHN,17.01,Male,20 April 1996
+2020,Andrea Dallavalle,ITA,16.99,Male,"31 October 1999 in Piacenza, Piacenza (ITA)"
+2020,Cristian Nápoles,CUB,17.08,Male,"27 November 1998 in Marianao, Ciudad de La Habana (CUB)"
+2020,Emmanuel Ihemeje,ITA,16.88,Male,"9 October 1998 in Carrara, Massa-Carrara (ITA)"
+2020,Melvin Raffin,FRA,16.83,Male,"9 August 1998 in Bourg-la-Reine, Hauts-de-Seine (FRA)"
+2020,Tobia Bocchi,ITA,16.78,Male,"7 April 1997 in Parma, Parma (ITA)"
+2020,Wu Ruiting,CHN,16.73,Male,29 November 1995
+2020,Nazim Babayev,AZE,16.72,Male,"8 October 1997 in Bakı, Bakı (AZE)",187.0,74.0
+2020,Tiago Pereira,POR,16.71,Male,"19 September 1993 in Lisboa, Distrito de Lisboa (POR)",194.0,76.0
+2020,Max Heß,GER,16.69,Male,"13 July 1996 in Chemnitz, Sachsen (GER)",185.0,80.0
+2020,Chris Benard,USA,16.59,Male,"9 April 1990 in Tustin, California (USA)",191.0,84.0
+2020,Benjamin Compaoré,FRA,16.59,Male,"5 August 1987 in Bar-le-Duc, Meuse (FRA)",189.0,83.0
+2020,Mateus de Sá,BRA,16.49,Male,"21 November 1995 in Dracena, São Paulo (BRA)",184.0,80.0
+2020,Levon Aghasyan,ARM,16.42,Male,"19 January 1995 in Kapan, Syunik (ARM)",193.0,75.0
+2020,Ben Williams,GBR,16.3,Male,"25 January 1992 in Stoke-on-Trent, England (GBR)"
+2020,Almir Júnior,BRA,16.27,Male,"4 September 1993 in Matupá, Mato Grosso (BRA)",190.0,82.0
+2020,Carey McLeod,JAM,16.01,Male,14 April 1998
+2020,Pablo Torrijos,ESP,15.87,Male,"12 May 1992 in Castellón de la Plana, Castellón (ESP)",185.0,76.0
+2020,Alexsandro Melo,BRA,15.65,Male,"26 September 1995 in Londrina, Paraná (BRA)",189.0,72.0
+2020,Nelson Évora,POR,15.39,Male,"20 April 1984 in Abidjan, Abidjan (CIV)",182.0,72.0
