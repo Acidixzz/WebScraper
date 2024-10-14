@@ -4,7 +4,7 @@ import csv
 
 url = 'https://www.olympedia.org/'
 
-years = {
+men_years = {
     # 1870: "9009259",
     # 1896: "56026",
     # 1900: "56100",
@@ -39,6 +39,16 @@ years = {
     2020: "19000509"
 }
 
+women_years = {
+    1996: "65196",
+    2000: "65878",
+    2004: "66594",
+    2008: "257737",
+    2012: "302055",
+    2016: "359175",
+    2020: "19000812"
+}
+
 csv_headers = ['Year', 'Athlete', 'NOC', 'Distance', 'Sex', 'Birth', 'Height (cm)', 'Weight (kg)']
 csv_data = [csv_headers]
 
@@ -50,7 +60,7 @@ def is_num(s):
         return False
 
 def result_parse(year):
-    result_response = requests.get(url + 'results/' + years[year])
+    result_response = requests.get(url + 'results/' + women_years[year])
 
     if result_response.status_code == 200:
         # print(response.content)
@@ -119,12 +129,12 @@ def athlete_parse(link, data_row):
         print(f'Request exited with error {athlete_response.status_code}\n {athlete_response.content}')
 
 
-for key in years.keys():
+for key in women_years.keys():
     result_parse(key)
 
 
 print(csv_data)
-with open('Olympic.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('Olympic_Women.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerows(csv_data)
 
